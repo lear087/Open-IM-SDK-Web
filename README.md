@@ -1,4 +1,5 @@
 # OpenIM SDK for Web、uni-app and MiniProgram
+<img src="https://github.com/OpenIMSDK/OpenIM-Docs/blob/main/docs/images/WechatIMG20.jpeg" alt="image" style="width: 350px; " />
 
 > [中文文档](https://doc.rentsoft.cn/#/js_v2/sdk_integrate/development)
 
